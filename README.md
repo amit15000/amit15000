@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning technical skills
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate lovely people like you.❤️❤️❤️
-- 📫 How to reach me --- amitmaurya15000@gmail.com
+- 📫 How to reach me --- https://github.com/amit15000/amit15000 
+-                         amitmaurya15000@gmail.com
 
 <!---
 amit15000/amit15000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
