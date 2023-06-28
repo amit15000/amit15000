@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit15000
+- 👋 Hi, I’m Amit Kumar
 - 👀 I’m interested in learning technical skills
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate lovely people like you.❤️❤️❤️
