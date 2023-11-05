@@ -2,35 +2,30 @@ Introduction and Goals
 
 🌟 Welcome to My GitHub!
 
-🚀 Aspiring Full Stack Developer
+        🚀 Aspiring Full Stack Developer
 
-🔍 Expertise in C++ and Python Programming
+        🔍 Expertise in C++ and Python Programming
 
-👨‍💻 Passionate about Technology and Innovation
+        👨‍💻 Passionate about Technology and Innovation
 
 About Me
-🎓 Dedicated to Continuous Learning
+        🎓 Dedicated to Continuous Learning
 
-💡 Driven by Problem Solving
+        💡 Driven by Problem Solving
 
-🌱 Exploring New Technologies and Frameworks
+        🌱 Exploring New Technologies and Frameworks
 
 Goals
-🔧 Master Front-end and Back-end Technologies
+        🔧 Master Front-end and Back-end Technologies
+  
+        🚀 Excel in C++ Algorithm Design
 
-🚀 Excel in C++ Algorithm Design
-
-🐍 Mastery in Python Applications and Libraries
-
-Projects
-🛠️ Diverse Projects Demonstrating Skills
-
-👾 Explore My Coding Challenges
-
-📈 See My Progress and Innovations
-
+        🐍 Mastery in Python Applications and Libraries
+        
 Get in Touch
 🤝 Open for Collaborations and Projects
+
+🔍 Excited to contribute in open sources
 
 💬 Engage in Knowledge Sharing
 
