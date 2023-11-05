@@ -1,4 +1,5 @@
-ntroduction and Goals
+Introduction and Goals
+
 🌟 Welcome to My GitHub!
 
 🚀 Aspiring Full Stack Developer
