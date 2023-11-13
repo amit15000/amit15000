@@ -29,4 +29,4 @@ Get in Touch
 
 💬 Engage in Knowledge Sharing
 
-📧 Email: 15000@amitkumar@gmail.com
+📧 Email: 15000amitkumar@gmail.com
