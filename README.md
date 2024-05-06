@@ -16,23 +16,6 @@ About Me
 
 🌱 Exploring New Technologies and Frameworks
 
-**Skills**
-
-- Next.js
-- React.js
-- Recoil
-- Node.js
-- TypeScript
-- JavaScript
-- Docker
-- AWS
-- Prisma ORM
-- C++
-- SQL
-- MongoDB
-- Serverless Functions
-- and more...
-
 Goals
 
 🔧 Master Front-end and Back-end Technologies
